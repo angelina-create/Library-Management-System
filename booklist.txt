@@ -1,0 +1,8 @@
+16545, Harry Potter, JK Rowling, Novel
+56456, A Song of Ice and Fire, George RR Martin, Novel
+56451, Forbes Magazine, Forbes, Magazine
+43215, Churchill: A Life, Martin Gilbert, Biography
+43486, Dear Mr Kilmer, Anne Schraff, Literature
+76512, Spiderman, Jack Kirby, Comics
+32118, Batman, Johnny Bateson, Comics
+92335, The Avengers, Stan Lee, Comics
